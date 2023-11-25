@@ -11,7 +11,7 @@ Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, 
 
 Tableau Dashboard - https://public.tableau.com/app/profile/najrul.ansari/viz/iphonepurchasedashboard/Dashboard1?publish=yes
 
-* Algorithm Used- KNeighborsClassifier, Decision Tree, Random Forest, LogisticRegression.
++ Algorithm Used- KNeighborsClassifier, Decision Tree, Random Forest, LogisticRegression.
 
 KNeighborsClassifier - KNeighborsClassifier is a classification algorithm based on the K-Nearest Neighbors (KNN) approach. 
 It is part of the scikit-learn library in Python and is used for solving classification problems. 
