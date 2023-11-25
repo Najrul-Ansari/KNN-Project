@@ -34,14 +34,13 @@ It's commonly used in machine learning for predicting the probability that an in
 
 ## Bangalore House Price Prediction
 Project 6 - houseprice_prj6
-Objective - Predict the Price of Bangalore House
++Objective - Predict the Price of Bangalore House
 
++Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
 
-Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
++Tableau Dashboard - 
 
-Tableau Dashboard - 
-
-Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
++Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
 
 KNeighborsRegressor - KNeighborsRegressor is a machine learning algorithm used for regression tasks. It is part of the scikit-learn library in Python and is based on the K-Nearest Neighbors (KNN) approach, similar to the KNeighborsClassifier for classification tasks. The KNN algorithm works by predicting the target variable of a new data point based on the average (or weighted average) of the target values of its k-nearest neighbors in the feature space.
 
