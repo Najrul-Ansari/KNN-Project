@@ -34,21 +34,22 @@ It's commonly used in machine learning for predicting the probability that an in
 
 ## Bangalore House Price Prediction
 Project 6 - houseprice_prj6
-+Objective - Predict the Price of Bangalore House
++ Dataset name - bangalore house price prediction OHE-data.csv
++ Objective - Predict the Price of Bangalore House
 
-+Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
++ Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
 
-+Tableau Dashboard - 
++ Tableau Dashboard - 
 
-+Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
++ Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
 
-KNeighborsRegressor - KNeighborsRegressor is a machine learning algorithm used for regression tasks. It is part of the scikit-learn library in Python and is based on the K-Nearest Neighbors (KNN) approach, similar to the KNeighborsClassifier for classification tasks. The KNN algorithm works by predicting the target variable of a new data point based on the average (or weighted average) of the target values of its k-nearest neighbors in the feature space.
+  + KNeighborsRegressor - KNeighborsRegressor is a machine learning algorithm used for regression tasks. It is part of the scikit-learn library in Python and is based on the K-Nearest Neighbors (KNN) approach, similar to the KNeighborsClassifier for classification tasks. The KNN algorithm works by predicting the target variable of a new data point based on the average (or weighted average) of the target values of its k-nearest neighbors in the feature space.
 
-Linear Regression - Linear Regression is a statistical method and a fundamental machine learning algorithm used for predicting a continuous outcome variable (also called the dependent variable) based on one or more predictor variables (independent variables). The relationship between the variables is assumed to be linear, meaning that a change in the predictor variables is associated with a linear change in the outcome.
+  + Linear Regression - Linear Regression is a statistical method and a fundamental machine learning algorithm used for predicting a continuous outcome variable (also called the dependent variable) based on one or more predictor variables (independent variables). The relationship between the variables is assumed to be linear, meaning that a change in the predictor variables is associated with a linear change in the outcome.
 
-Ridge - Ridge Regression, also known as Tikhonov regularization or L2 regularization, is a linear regression variant that introduces a regularization term to the standard linear regression objective function. The purpose of Ridge Regression is to prevent overfitting and handle multicollinearity, which occurs when predictor variables are highly correlated.
+  + idge - Ridge Regression, also known as Tikhonov regularization or L2 regularization, is a linear regression variant that introduces a regularization term to the standard linear regression objective function. The purpose of Ridge Regression is to prevent overfitting and handle multicollinearity, which occurs when predictor variables are highly correlated.
 
-Lasso - Lasso Regression, short for Least Absolute Shrinkage and Selection Operator, is a linear regression technique that introduces a regularization term to the standard linear regression objective function. Like Ridge Regression, Lasso aims to prevent overfitting and handle multicollinearity in the presence of highly correlated predictor variables.
+  + Lasso - Lasso Regression, short for Least Absolute Shrinkage and Selection Operator, is a linear regression technique that introduces a regularization term to the standard linear regression objective function. Like Ridge Regression, Lasso aims to prevent overfitting and handle multicollinearity in the presence of highly correlated predictor variables.
 
-Polynomial Regression - Polynomial Regression is a type of linear regression in which the relationship between the independent variable (predictor variable) and the dependent variable is modeled as an nth-degree polynomial. It extends the simple linear regression model, allowing for a more flexible representation of the relationship between variables.
+  + Polynomial Regression - Polynomial Regression is a type of linear regression in which the relationship between the independent variable (predictor variable) and the dependent variable is modeled as an nth-degree polynomial. It extends the simple linear regression model, allowing for a more flexible representation of the relationship between variables.
 
