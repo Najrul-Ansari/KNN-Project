@@ -29,4 +29,7 @@ It's commonly used in machine learning for predicting the probability that an in
 
 ## Bangalore House Price Prediction
 Project 6 - houseprice_prj6
+Objective - Predict the Price of Bangalore House
+
+Algorith Used - 
 
