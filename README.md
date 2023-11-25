@@ -26,3 +26,7 @@ LogisticRegression - Logistic Regression is a statistical method used for binary
 Despite its name, it is a classification algorithm rather than a regression algorithm. 
 It's commonly used in machine learning for predicting the probability that an instance belongs to a particular category.
 
+
+## Bangalore House Price Prediction
+Project 6 - houseprice_prj6
+
