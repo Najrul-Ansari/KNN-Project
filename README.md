@@ -8,7 +8,6 @@ from thier store given their gender, age and salary.
 Prediction  - Whether Customer will purchase or not
 
 Algorithm Used-
-Algorithm used-
 
 KNeighborsClassifier - KNeighborsClassifier is a classification algorithm based on the K-Nearest Neighbors (KNN) approach. 
 It is part of the scikit-learn library in Python and is used for solving classification problems. 
