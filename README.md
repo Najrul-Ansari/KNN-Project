@@ -8,9 +8,10 @@ from thier store given their gender, age and salary.
 Objective  - Whether Customer will purchase or not
 
 Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
-Algorithm Used- KNeighborsClassifier, Decision Tree, Random Forest, LogisticRegression.
 
 Tableau Dashboard - https://public.tableau.com/app/profile/najrul.ansari/viz/iphonepurchasedashboard/Dashboard1?publish=yes
+
+Algorithm Used- KNeighborsClassifier, Decision Tree, Random Forest, LogisticRegression.
 
 KNeighborsClassifier - KNeighborsClassifier is a classification algorithm based on the K-Nearest Neighbors (KNN) approach. 
 It is part of the scikit-learn library in Python and is used for solving classification problems. 
@@ -33,6 +34,7 @@ Objective - Predict the Price of Bangalore House
 
 
 Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
-Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
 
 Tableau Dashboard - 
+
+Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
