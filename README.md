@@ -4,12 +4,13 @@
 Project 5 - iphone_prj5
 Iphone Purchases are getting increased day by day and many stores wants to predict whether a customer will purchase an Iphone 
 from thier store given their gender, age and salary.
++ Dataset name - iphone_purchase_records.csv
 
-Objective  - Whether Customer will purchase or not
++ Objective  - Whether Customer will purchase or not
 
-Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
++ Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
 
-Tableau Dashboard - https://public.tableau.com/app/profile/najrul.ansari/viz/iphonepurchasedashboard/Dashboard1?publish=yes
++ Tableau Dashboard - https://public.tableau.com/app/profile/najrul.ansari/viz/iphonepurchasedashboard/Dashboard1?publish=yes
 
 + Algorithm Used- KNeighborsClassifier, Decision Tree, Random Forest, LogisticRegression.
 
