@@ -32,20 +32,12 @@ Despite its name, it is a classification algorithm rather than a regression algo
 It's commonly used in machine learning for predicting the probability that an instance belongs to a particular category.
 
 + Methodology - 
-  + Data Collection:
-  +     Gathered data on gender, age, and salary.
-Data Preprocessing:
-Checked for missing values.
-Handled categorical data (if any).
-Feature Selection:
-Chose relevant features for model training.
-Model Selection:
-Used KNeighborsClassifier, Decision Tree, Random Forest, and Logistic Regression.
-Model Training:
-Split the dataset into training and testing sets.
-Trained each model on the training set.
-Model Evaluation:
-Evaluated the models using accuracy, precision, recall, and F1-score.
+  + Data Collection: Gathered data on gender, age, and salary.
+  + Data Preprocessing: Checked for missing values. Handled categorical data (if any).
+  + Feature Selection: Chose relevant features for model training.
+  + Model Selection: Used KNeighborsClassifier, Decision Tree, Random Forest, and Logistic Regression.
+  + Model Training: Split the dataset into training and testing sets. Trained each model on the training set.
+  + Model Evaluation: Evaluated the models using accuracy, precision, recall, and F1-score.
 
 
 ## Bangalore House Price Prediction
@@ -68,4 +60,12 @@ Project 6 - houseprice_prj6
   + Lasso - Lasso Regression, short for Least Absolute Shrinkage and Selection Operator, is a linear regression technique that introduces a regularization term to the standard linear regression objective function. Like Ridge Regression, Lasso aims to prevent overfitting and handle multicollinearity in the presence of highly correlated predictor variables.
 
   + Polynomial Regression - Polynomial Regression is a type of linear regression in which the relationship between the independent variable (predictor variable) and the dependent variable is modeled as an nth-degree polynomial. It extends the simple linear regression model, allowing for a more flexible representation of the relationship between variables.
+ 
++ Methodology - 
+  + Data Collection: Gathered on the bangalore house price.
+  + Data Preprocessing: Checked for missing values. Handled categorical data (if any).
+  + Feature Selection: Chose relevant features for model training.
+  + Model Selection: Used KNeighborsRegressor, Linear Regression, Ridge, Lasso, and Polynomial Regression
+  + Model Training: Split the dataset into training and testing sets. Trained each model on the training set.
+  + Model Evaluation: Evaluated the models using accuracy, precision, recall, and F1-score.
 
