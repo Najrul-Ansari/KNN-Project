@@ -33,7 +33,7 @@ It's commonly used in machine learning for predicting the probability that an in
 
 + Methodology - 
   + Data Collection:
-  +   Gathered data on gender, age, and salary.
+  +     Gathered data on gender, age, and salary.
 Data Preprocessing:
 Checked for missing values.
 Handled categorical data (if any).
