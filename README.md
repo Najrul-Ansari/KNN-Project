@@ -31,6 +31,22 @@ It is a powerful and versatile machine learning algorithm known for its high acc
 Despite its name, it is a classification algorithm rather than a regression algorithm. 
 It's commonly used in machine learning for predicting the probability that an instance belongs to a particular category.
 
++ Methodology - 
+  + Data Collection:
+  +   Gathered data on gender, age, and salary.
+Data Preprocessing:
+Checked for missing values.
+Handled categorical data (if any).
+Feature Selection:
+Chose relevant features for model training.
+Model Selection:
+Used KNeighborsClassifier, Decision Tree, Random Forest, and Logistic Regression.
+Model Training:
+Split the dataset into training and testing sets.
+Trained each model on the training set.
+Model Evaluation:
+Evaluated the models using accuracy, precision, recall, and F1-score.
+
 
 ## Bangalore House Price Prediction
 Project 6 - houseprice_prj6
