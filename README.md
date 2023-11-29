@@ -70,11 +70,19 @@ Project 6 - houseprice_prj6
 
   + Polynomial Regression - Polynomial Regression is a type of linear regression in which the relationship between the independent variable (predictor variable) and the dependent variable is modeled as an nth-degree polynomial. It extends the simple linear regression model, allowing for a more flexible representation of the relationship between variables.
  
-+ Methodology - 
-  + Data Collection: Gathered on the bangalore house price.
-  + Data Preprocessing: Checked for missing values. Handled categorical data (if any).
-  + Feature Selection: Chose relevant features for model training.
-  + Model Selection: Used KNeighborsRegressor, Linear Regression, Ridge, Lasso, and Polynomial Regression
-  + Model Training: Split the dataset into training and testing sets. Trained each model on the training set.
-  + Model Evaluation: Evaluated the models using accuracy, precision, recall, and F1-score.
++ Methodology:
+  
+  •	Data Collection: The data used to build the model was provided in the csv format. It has different columns such as price, price per square foot, location, availability, area type, 
+    number of bedrooms and bathrooms, etc.
+
+  •	Data Pre-processing: Data pre-processing is a crucial step to ensure the quality and suitability of the dataset for training machine learning models. Checked for missing values.         Handled categorical data (if any).
+
+  •	Feature Selection: Feature selection is a critical step to identify the most relevant variables that contribute to the predictive power of the model.
+
+  •	Model Selection: In the model selection section, provide a detailed overview of the machine learning algorithms chosen for the predictive analysis. Explain the rationale behind the      selection of each algorithm and discuss how they align with the project objectives.  Used KNeighborsRegressor, Linear Regression, Ridge, Lasso, and Polynomial Regression.
+  
+  •	Model Training: In the model training section, the processed data is fit to train the selected model so that it is able to predict the future entered data. Split the dataset into        training and testing sets. Trained each model on the training set.
+
+  •	Model Evaluation: In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment. Evaluated the       models using accuracy, precision, recall, and F1-score.
+ 
 
