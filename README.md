@@ -32,6 +32,7 @@ Despite its name, it is a classification algorithm rather than a regression algo
 It's commonly used in machine learning for predicting the probability that an instance belongs to a particular category.
 
 + Methodology:
+  
   •	Data Collection: The data used to build the model was provided in the csv format. It has gender, age, salary and whether the said person purchased the phone or not in 1 and 0 
     format, where 1 stands for yes and 0 for no.
 
@@ -41,6 +42,7 @@ It's commonly used in machine learning for predicting the probability that an in
 
   •	Model Selection: In the model selection section, provide a detailed overview of the machine learning algorithms chosen for the predictive analysis. Explain the rationale behind the 
     selection of each algorithm and discuss how they align with the project objectives.
+  
   •	Model Training: In the model training section, the processed data is fit to train the selected model so that it is able to predict the future entered data.
 
   •	Model Evaluation: In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment.
