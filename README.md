@@ -56,7 +56,6 @@ Project 6 - houseprice_prj6
 
 + Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
 
-+ Tableau Dashboard - 
 
 + Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
 
