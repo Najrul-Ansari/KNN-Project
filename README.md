@@ -56,6 +56,7 @@ Project 6 - houseprice_prj6
 
 + Tools - Python code in Jupyter notebook, Tableau for vizualization, Powerpoint, Excel.
 
++ Dataset - The dataset zip file contains both the raw data set and cleaned dataset.
 
 + Algorith Used - KNeighborsRegressor, Linear Regression, Ridge, Lasso, Polynomial Regression.
 
