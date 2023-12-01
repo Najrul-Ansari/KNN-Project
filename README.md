@@ -84,5 +84,9 @@ Project 6 - houseprice_prj6
   •	Model Training: In the model training section, the processed data is fit to train the selected model so that it is able to predict the future entered data. Split the dataset into        training and testing sets. Trained each model on the training set.
 
   •	Model Evaluation: In the model evaluation section, the performance of the trained machine learning models is assessed to select the best suited model for deployment. Evaluated the       models using accuracy, precision, recall, and F1-score.
+
+
+  ## Time Taken
+  Time taken to complete both the projects from start to end took 10-12 hrs for each of them.
  
 
